@@ -32,7 +32,8 @@ Click on the "Human vs Computer" button to play against the AI.
 Use the "Restart" button to reset the game.
 Use the "Home" button to return to the main menu and reset the game state.
 ###  Live Demo
-You can view the live demo of the game here.
+You can view the live demo of the game here.\
+https://potti-mokshagna.github.io/PRODIGY_WD_03/
 
 ###  Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
